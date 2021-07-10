@@ -16,6 +16,7 @@
 		A6CE14D026904E640042A431 /* CategoryImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14CF26904E640042A431 /* CategoryImage.swift */; };
 		A6CE14D22699557C0042A431 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14D12699557C0042A431 /* CheckBox.swift */; };
 		A6CE14D52699624D0042A431 /* Color+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14D42699624D0042A431 /* Color+Extension.swift */; };
+		A6CE14D7269963DF0042A431 /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14D6269963DF0042A431 /* UserView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		A6CE14CF26904E640042A431 /* CategoryImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryImage.swift; sourceTree = "<group>"; };
 		A6CE14D12699557C0042A431 /* CheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
 		A6CE14D42699624D0042A431 /* Color+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Extension.swift"; sourceTree = "<group>"; };
+		A6CE14D6269963DF0042A431 /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				A6CE14BD26904AA30042A431 /* ContentView.swift */,
 				A6CE14CF26904E640042A431 /* CategoryImage.swift */,
 				A6CE14D12699557C0042A431 /* CheckBox.swift */,
+				A6CE14D6269963DF0042A431 /* UserView.swift */,
 				A6CE14BF26904AA50042A431 /* Assets.xcassets */,
 				A6CE14C426904AA50042A431 /* Persistence.swift */,
 				A6CE14C926904AA50042A431 /* Info.plist */,
@@ -164,6 +167,7 @@
 				A6CE14C526904AA50042A431 /* Persistence.swift in Sources */,
 				A6CE14D52699624D0042A431 /* Color+Extension.swift in Sources */,
 				A6CE14BE26904AA30042A431 /* ContentView.swift in Sources */,
+				A6CE14D7269963DF0042A431 /* UserView.swift in Sources */,
 				A6CE14D22699557C0042A431 /* CheckBox.swift in Sources */,
 				A6CE14BC26904AA30042A431 /* TodoApp.swift in Sources */,
 				A6CE14D026904E640042A431 /* CategoryImage.swift in Sources */,
