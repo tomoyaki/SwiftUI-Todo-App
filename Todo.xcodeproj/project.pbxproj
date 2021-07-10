@@ -19,6 +19,7 @@
 		A6CE14D7269963DF0042A431 /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14D6269963DF0042A431 /* UserView.swift */; };
 		A6CE14D926997DB20042A431 /* TodoEntity+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14D826997DB20042A431 /* TodoEntity+Extension.swift */; };
 		A6CE14DB26997F1C0042A431 /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14DA26997F1C0042A431 /* CategoryView.swift */; };
+		A6CE14DD269983DE0042A431 /* QuickNewTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14DC269983DE0042A431 /* QuickNewTask.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		A6CE14D6269963DF0042A431 /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
 		A6CE14D826997DB20042A431 /* TodoEntity+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TodoEntity+Extension.swift"; sourceTree = "<group>"; };
 		A6CE14DA26997F1C0042A431 /* CategoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryView.swift; sourceTree = "<group>"; };
+		A6CE14DC269983DE0042A431 /* QuickNewTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickNewTask.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				A6CE14D12699557C0042A431 /* CheckBox.swift */,
 				A6CE14D6269963DF0042A431 /* UserView.swift */,
 				A6CE14DA26997F1C0042A431 /* CategoryView.swift */,
+				A6CE14DC269983DE0042A431 /* QuickNewTask.swift */,
 				A6CE14BF26904AA50042A431 /* Assets.xcassets */,
 				A6CE14C426904AA50042A431 /* Persistence.swift */,
 				A6CE14C926904AA50042A431 /* Info.plist */,
@@ -171,6 +174,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A6CE14C526904AA50042A431 /* Persistence.swift in Sources */,
+				A6CE14DD269983DE0042A431 /* QuickNewTask.swift in Sources */,
 				A6CE14D52699624D0042A431 /* Color+Extension.swift in Sources */,
 				A6CE14BE26904AA30042A431 /* ContentView.swift in Sources */,
 				A6CE14D7269963DF0042A431 /* UserView.swift in Sources */,
