@@ -17,6 +17,7 @@
 		A6CE14D22699557C0042A431 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14D12699557C0042A431 /* CheckBox.swift */; };
 		A6CE14D52699624D0042A431 /* Color+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14D42699624D0042A431 /* Color+Extension.swift */; };
 		A6CE14D7269963DF0042A431 /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14D6269963DF0042A431 /* UserView.swift */; };
+		A6CE14D926997DB20042A431 /* TodoEntity+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14D826997DB20042A431 /* TodoEntity+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		A6CE14D12699557C0042A431 /* CheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
 		A6CE14D42699624D0042A431 /* Color+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Extension.swift"; sourceTree = "<group>"; };
 		A6CE14D6269963DF0042A431 /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
+		A6CE14D826997DB20042A431 /* TodoEntity+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TodoEntity+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				A6CE14D42699624D0042A431 /* Color+Extension.swift */,
+				A6CE14D826997DB20042A431 /* TodoEntity+Extension.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				A6CE14D22699557C0042A431 /* CheckBox.swift in Sources */,
 				A6CE14BC26904AA30042A431 /* TodoApp.swift in Sources */,
 				A6CE14D026904E640042A431 /* CategoryImage.swift in Sources */,
+				A6CE14D926997DB20042A431 /* TodoEntity+Extension.swift in Sources */,
 				A6CE14C826904AA50042A431 /* Todo.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
