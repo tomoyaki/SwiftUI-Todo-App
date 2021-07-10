@@ -13,6 +13,8 @@
 		A6CE14C326904AA50042A431 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6CE14C226904AA50042A431 /* Preview Assets.xcassets */; };
 		A6CE14C526904AA50042A431 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14C426904AA50042A431 /* Persistence.swift */; };
 		A6CE14C826904AA50042A431 /* Todo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14C626904AA50042A431 /* Todo.xcdatamodeld */; };
+		A6CE14D026904E640042A431 /* CategoryImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14CF26904E640042A431 /* CategoryImage.swift */; };
+		A6CE14D22699557C0042A431 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CE14D12699557C0042A431 /* CheckBox.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		A6CE14C426904AA50042A431 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		A6CE14C726904AA50042A431 /* Todo.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Todo.xcdatamodel; sourceTree = "<group>"; };
 		A6CE14C926904AA50042A431 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6CE14CF26904E640042A431 /* CategoryImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryImage.swift; sourceTree = "<group>"; };
+		A6CE14D12699557C0042A431 /* CheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			children = (
 				A6CE14BB26904AA30042A431 /* TodoApp.swift */,
 				A6CE14BD26904AA30042A431 /* ContentView.swift */,
+				A6CE14CF26904E640042A431 /* CategoryImage.swift */,
+				A6CE14D12699557C0042A431 /* CheckBox.swift */,
 				A6CE14BF26904AA50042A431 /* Assets.xcassets */,
 				A6CE14C426904AA50042A431 /* Persistence.swift */,
 				A6CE14C926904AA50042A431 /* Info.plist */,
@@ -146,7 +152,9 @@
 			files = (
 				A6CE14C526904AA50042A431 /* Persistence.swift in Sources */,
 				A6CE14BE26904AA30042A431 /* ContentView.swift in Sources */,
+				A6CE14D22699557C0042A431 /* CheckBox.swift in Sources */,
 				A6CE14BC26904AA30042A431 /* TodoApp.swift in Sources */,
+				A6CE14D026904E640042A431 /* CategoryImage.swift in Sources */,
 				A6CE14C826904AA50042A431 /* Todo.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
